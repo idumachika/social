@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>812343219015-pe0lulod9296vvqrfmc22qspa7a3i2ic.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.812343219015-pe0lulod9296vvqrfmc22qspa7a3i2ic</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDH4yghnewZAtjbZ3AFSy3XR50lBlOlqlg</string>
+	<key>GCM_SENDER_ID</key>
+	<string>812343219015</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.tlikes</string>
+	<key>PROJECT_ID</key>
+	<string>t-likes</string>
+	<key>STORAGE_BUCKET</key>
+	<string>t-likes.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:812343219015:ios:76873b10c4cd832c</string>
+	<key>DATABASE_URL</key>
+	<string>https://t-likes.firebaseio.com</string>
+</dict>
+</plist>

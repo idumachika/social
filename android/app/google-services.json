@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "812343219015",
+    "firebase_url": "https://t-likes.firebaseio.com",
+    "project_id": "t-likes",
+    "storage_bucket": "t-likes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:812343219015:android:76873b10c4cd832c",
+        "android_client_info": {
+          "package_name": "com.tlikes"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "812343219015-vmincjv0cpdesgi5bvimmnrkh585aj9t.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tlikes",
+            "certificate_hash": "ef5402390c18a6d2a2900ab2a5b36d0b34bad90b"
+          }
+        },
+        {
+          "client_id": "812343219015-6nqvjvlih4mn1ck30rbf356khmgviisb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA20PWiJ_7u9FDBW_BMocILTju6rUWDGRg"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "812343219015-6nqvjvlih4mn1ck30rbf356khmgviisb.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
