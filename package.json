@@ -10,7 +10,7 @@
     "ci": "npm run lint"
   },
   "dependencies": {
-    "lodash": "^4.17.10",
+    "lodash": "^4.17.19",
     "moment": "^2.22.2",
     "native-base": "^2.8.1",
     "numeral": "^2.0.6",
